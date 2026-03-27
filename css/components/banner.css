@@ -4,6 +4,8 @@
 	padding: 150px 0px;
 	background-size: cover;
 	background-position: center;
+	background-repeat: no-repeat;
+	align-items: center;
 }
 
 .banner h1 {
