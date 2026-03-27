@@ -5,6 +5,8 @@
 @import "components/container.css";
 @import "components/banner.css";
 @import "components/card.css";
+@import "components/avatar.css";
+@import "components/button.css"
 
 /* General style rules for fonts and colors */
 body {
